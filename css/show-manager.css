@@ -1,0 +1,19 @@
+/**ADMIN STYLES**/
+
+.show_manager_extras div{
+margin: 10px;
+}
+
+.show_manager_extras div label{
+width: 100px;
+float: left;
+}
+
+.req {
+    bottom: 5px;
+    color: red;
+    left: 5px;
+    position: relative;
+}
+
+.bold { font-weight:600; }
