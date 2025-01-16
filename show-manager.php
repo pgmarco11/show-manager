@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Show Manager
- * Description: A plugin to manage shows and events with custom post types and taxonomies.
+ * Description: A plugin to manage shows and events with custom post types and taxonomies, and shortcodes.
  * Version: 1.0
  * Author: Peter Giammarco
  */
