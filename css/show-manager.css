@@ -1,0 +1,45 @@
+/**ADMIN STYLES**/
+
+.show_manager_extras div{
+margin: 10px;
+}
+
+.show_manager_extras div label{
+width: 100px;
+float: left;
+}
+
+.req {
+    bottom: 5px;
+    color: red;
+    left: 5px;
+    position: relative;
+}
+
+.bold { font-weight:600; }
+
+.tickets {
+    height: auto;
+    max-width: 100%;
+    padding: 0.5rem 0.85rem;
+}
+.tickets {
+    color: #fff;
+    font-size: 1.5rem;
+}
+.btn {
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    line-height: 1.5;
+    border-radius: .25rem;
+}
